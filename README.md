@@ -25,12 +25,7 @@ Inside each folder you'll typically find:
 - The solution file
 - (Optionally) a brief explanation of the approach, time/space complexity, or notes
 
-
-##  Goal
-
 The aim of this repo is consistency: solving at least one LeetCode problem every day to build long-term proficiency in algorithms, data structures, and interview-style problem solving.
-
-##  How to Use
 
 Feel free to browse any day's folder to see the problem and its solution. If you're following a similar daily-practice routine, you're welcome to fork this repo and use it as a template for tracking your own progress.
 
