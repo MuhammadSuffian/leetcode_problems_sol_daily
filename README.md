@@ -25,7 +25,6 @@ Inside each folder you'll typically find:
 - The solution file
 - (Optionally) a brief explanation of the approach, time/space complexity, or notes
 
-*(This table is updated as new problems are added — check the folder list above for the most current set.)*
 
 ##  Goal
 
